@@ -1,0 +1,40 @@
+#create-button{
+  background-color: lightgray;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+#signin-button{
+  background-color: yellow;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+#footer-div{
+  border-top: 1px solid lightgray;
+}
+
+.form-container{
+  border: 1px solid lightgray;
+  margin-bottom: 2em;
+}
+
+button{
+  margin-top:1em;
+  margin-bottom:1em;
+}
+
+div.form-container{
+  width:70%;
+}
+
+footer.container{
+  width: 50%;
+}
+
+footer.container div{
+  margin-top: 1em;
+}
+input{
+  width:100%;
+  margin-bottom: 1em;
+}
